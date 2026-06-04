@@ -28,7 +28,7 @@ I am an astrophysicist, science communicator, and visual artist studying the fir
 [![BAGPIPES](https://img.shields.io/badge/BAGPIPES-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ACCarnall/bagpipes)
 
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 [![HTML/CSS](https://img.shields.io/badge/Code-HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![Java](https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![IDL](https://img.shields.io/badge/Code-IDL-B03A2E?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/IDL_(programming_language))
